@@ -1,6 +1,6 @@
 # Task 3
 
-# En este repositorio se podrá encontrar un archivo .zip con el proyecto de R y su respectivo Script. No obstante, en esta misma parte se pegará el Script elaborado para el desarrollo del Taller 2 de la clase
+En este repositorio se podrá encontrar un archivo .zip con el proyecto de R y su respectivo Script. No obstante, en esta misma parte se pegará el Script elaborado para el desarrollo del Taller 2 de la clase
 
 
 
