@@ -53,7 +53,7 @@ calles = opq(bbox = getbb("Bogota Colombia")) %>%
   add_osm_feature(key = "Autopista") %>%
   osmdata_sf()
 
-street = street$osm_lines %>% dplyr::select(osm_id,name)
+calles = calles$osm_lines %>% dplyr::select(osm_id,name)
 
 # Vias principales que sean de Transmilenio
 calles = calles %>%
